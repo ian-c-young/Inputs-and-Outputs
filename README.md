@@ -8,4 +8,6 @@ sponsor category, contract length, and title partner status, increasing social p
 business manager who increases sponsorship social media posts from 5 to 25 per season could
 expect recall of their social media to rise by approximately 28%.
 
+Tools: SQL, R, Quarto
+
 <img width="1500" height="1500" alt="social_posts_social_recall" src="https://github.com/user-attachments/assets/d2bdf872-3e06-4e4e-9fd5-c85569d08692" />
